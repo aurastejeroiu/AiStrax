@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+:root {
+    color-scheme: dark;
+}
+
+html,
+body,
+#root {
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    background: #060816;
+    color: #f8fafc;
+    font-family:
+            Inter,
+            system-ui,
+            sans-serif;
+}
+
+.bg-background {
+    background:
+            radial-gradient(circle at top left, rgba(139, 92, 246, 0.2), transparent 35%),
+            radial-gradient(circle at top right, rgba(34, 211, 238, 0.15), transparent 30%),
+            #060816;
+}
+
+.bg-grid {
+    background-image:
+            linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+    background-size: 48px 48px;
+    pointer-events: none;
+}
