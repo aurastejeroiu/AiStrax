@@ -425,14 +425,4 @@ The application demonstrates the integration of:
 
 The project was designed using a modular architecture that supports future extensions, including advanced AI models, external productivity integrations, collaborative planning environments, and scalable cloud-based deployments.
 
-Author: Aura-Mihaela Stejeroiu
-
-Specialization: Computer Science (English)
-
-Faculty of Mathematics and Computer Science
-
-Babeș-Bolyai University
-
-2026
-
 GitHub: https://github.com/aurastejeroiu/AiStrax
